@@ -1,3 +1,3 @@
 # Mikkel-coder.github.io
 
- - [Hjemmesider] (hjemmeside)
+ - [Hjemmesider](hjemmeside/)
