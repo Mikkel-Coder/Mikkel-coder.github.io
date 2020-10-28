@@ -1,3 +1,3 @@
-# Mikkel-coder.github.io (Mikkel Korsgaard Sørensen)
+Mikkel Korsgaard Sørensen
 
  - [Hjemmesider](hjemmeside/)
