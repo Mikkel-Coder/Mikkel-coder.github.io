@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: black;
+    font-size: 2.5em;
+    font-family: Helvetica;
+    padding: 1em;
+    background-color: lightsteelblue;
+}
+
+#Menu_head {
+    color: black;
+    font-size: 2em;
+    font-family: Helvetica;
+}
+
+#menu {
+    color: black;
+    font-size: 1.5em;
+    font-family: Helvetica;
+}
+
+footer {
+    background-color: lightsteelblue;
+    font-family: helvetica;
+    padding: .2em 3em;
+    margin: 0;
+}
