@@ -1,3 +1,2 @@
 - [Opgave 1](opg1/)
 - [Opgave 2](opg2/)
-- [opgave 3](opg3/)
