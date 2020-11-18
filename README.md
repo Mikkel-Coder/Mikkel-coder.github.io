@@ -2,3 +2,4 @@
  - [Balls](Balls/)
  - [And Koder](And_Koder/)
  - [Sjov med loops](Sjov_med_loops/)
+ - [Ikke sjvo med Dual parabola](Dual_parabola/)
